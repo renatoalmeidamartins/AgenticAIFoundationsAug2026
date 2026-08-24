@@ -29,3 +29,4 @@
 - [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) - on martinfowler.com
 - [Steering docs in Kiro](https://kiro.dev/docs/steering/)
 - [Specs in Kiro](https://kiro.dev/docs/specs/)
+- [Repo with bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
