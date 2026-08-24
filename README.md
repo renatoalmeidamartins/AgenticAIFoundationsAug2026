@@ -30,3 +30,7 @@
 - [Steering docs in Kiro](https://kiro.dev/docs/steering/)
 - [Specs in Kiro](https://kiro.dev/docs/specs/)
 - [Repo with bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [What is RAG - retrieval augmented generation](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [What are embeddings in Machine learning](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+- [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
+- [Retrieve data and generate AI responses with Amazon Bedrock Knowledge Bases](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html)
