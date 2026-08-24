@@ -50,3 +50,5 @@
 - [Agentcore CLI](https://github.com/aws/agentcore-cli)
 - [Get started with the AgentCore CLI](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-cli.html)
 - [Prompts used for the built-in long term memory strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+- [A2A - agent to agent](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [A2A repo](https://github.com/a2aproject/A2A)
