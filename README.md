@@ -52,3 +52,4 @@
 - [Prompts used for the built-in long term memory strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
 - [A2A - agent to agent](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 - [A2A repo](https://github.com/a2aproject/A2A)
+- [Launching Amazon CloudWatch generative AI observability](https://aws.amazon.com/blogs/mt/launching-amazon-cloudwatch-generative-ai-observability-preview/)
