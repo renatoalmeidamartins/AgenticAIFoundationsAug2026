@@ -6,3 +6,4 @@
 
 # Content links
 - [What is agentic AI?](https://aws.amazon.com/what-is/ai-agents/)
+- [What is prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
