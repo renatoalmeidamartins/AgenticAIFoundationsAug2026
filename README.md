@@ -7,3 +7,4 @@
 # Content links
 - [What is agentic AI?](https://aws.amazon.com/what-is/ai-agents/)
 - [What is prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
+- [New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning](https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/) - web search, knowledge bases and harnesses
