@@ -26,3 +26,6 @@
 - [Amazon Quick](https://docs.aws.amazon.com/quick/latest/userguide/what-is.html)
 - [Amazon Quick integrations ](https://docs.aws.amazon.com/quick/latest/userguide/supported-integrations.html)
 - [Kiro landing page](https://kiro.dev/)
+- [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) - on martinfowler.com
+- [Steering docs in Kiro](https://kiro.dev/docs/steering/)
+- [Specs in Kiro](https://kiro.dev/docs/specs/)
