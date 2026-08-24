@@ -11,3 +11,8 @@
 - [The Agentic AI Security Scoping Matrix: A framework for securing autonomous AI systems](https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/)
 - [Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
 - [OWASP GenAI LLM Top 10 2026](https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/)
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+- [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+- [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025)
+- [What are Transformers in Artificial Intelligence?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [What is GPT?](https://aws.amazon.com/what-is/gpt/)
