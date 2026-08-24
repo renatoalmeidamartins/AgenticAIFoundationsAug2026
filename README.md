@@ -25,3 +25,4 @@
 - [Q developer, which is now absorbed by Kiro](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html)
 - [Amazon Quick](https://docs.aws.amazon.com/quick/latest/userguide/what-is.html)
 - [Amazon Quick integrations ](https://docs.aws.amazon.com/quick/latest/userguide/supported-integrations.html)
+- [Kiro landing page](https://kiro.dev/)
