@@ -22,3 +22,6 @@
 - [Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits](https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/?refid=eaccbfa4-87fd-4af4-b140-650d0ab0799b)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - paper that "gave birth" to agents
 - [Bedrock agents (now called bedrock agents - classic - is deprecated since july 2026](https://docs.aws.amazon.com/bedrock/latest/userguide/agents-how.html)
+- [Q developer, which is now absorbed by Kiro](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html)
+- [Amazon Quick](https://docs.aws.amazon.com/quick/latest/userguide/what-is.html)
+- [Amazon Quick integrations ](https://docs.aws.amazon.com/quick/latest/userguide/supported-integrations.html)
