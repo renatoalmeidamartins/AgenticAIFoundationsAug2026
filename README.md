@@ -1,10 +1,15 @@
 # AgenticAIFoundationsAug2026
 
+## My contact details
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+- E-mail: renatoalmeidamartins@gmail.com
+
+## Course materials and survey
 - [Access to lab and books](https://us-east-1.student.classrooms.aws.training/class/ilt%233d4fgsTGGa4G93sp5zMiHG)
 - [Version info for all AWS courses](https://releases.awstc.com/) - class is delivered using 1.1.9
 - [my class, where you will fill the evaluation survey and obtain the class certificate](https://myclass.skillbuilder.aws/)
 
-# Content links
+## Content links
 - [What is agentic AI?](https://aws.amazon.com/what-is/ai-agents/)
 - [What is prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
 - [New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning](https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/) - web search, knowledge bases and harnesses
