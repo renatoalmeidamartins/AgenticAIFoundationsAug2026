@@ -16,3 +16,6 @@
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025)
 - [What are Transformers in Artificial Intelligence?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [What is GPT?](https://aws.amazon.com/what-is/gpt/)
+- [MCP - model context protocol](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [The AWS MCP Server is now generally available](https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/)
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
